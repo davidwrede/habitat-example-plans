@@ -1,0 +1,3 @@
+[myrailsapp]
+paths = [ "myrailsapp/*"]
+plan_path = "myrailsapp/habitat"
